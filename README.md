@@ -1,4 +1,4 @@
-# Text-Summarization-and-Sentiment-Analysis-NLP-Transformers
+# Text-Summarization-and-Sentiment-Analysis-NLP-Transformers-Tkinter
 This Python project provides functionality for news article extraction, summarization, and sentiment analysis. It leverages several libraries to parse articles, generate summaries, and analyze text sentiment. Additionally, it includes optional code for a graphical user interface (GUI) using tkinter.
 Key Features:
 
